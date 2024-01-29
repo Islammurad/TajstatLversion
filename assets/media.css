@@ -155,7 +155,6 @@
   	}
   	.header__items {
   		padding: 0;
-  		padding-top: 10px;
   	}
 	.block__indicator__items {
 		grid-template-columns: repeat(2, 1fr);
