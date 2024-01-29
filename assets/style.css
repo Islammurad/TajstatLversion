@@ -56,6 +56,9 @@ body {
 	border-radius:5px;
 	box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
 }
+.swiper-button-next, .swiper-button-prev {
+	top: 54% !important;
+}
 .sl-nav li:hover .triangle {
 	position: absolute;
 	top: 15px;
@@ -162,7 +165,7 @@ i.fa.fa-angle-down {
   position: absolute;
   color: #FFF;
   width: 100%;
-  top: 40%;
+  top: 27%;
   left: 15%;
 }
 
