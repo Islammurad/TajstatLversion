@@ -196,7 +196,9 @@ i.fa.fa-angle-down {
     width: 14px !important;
     height: 14px !important;
 }
-
+.indicator__image i {
+	font-size: 30px;
+}
 .block_transtion {
 	padding: 12px 20px;
 	-webkit-box-shadow: 100px 100px 100px 100px rgba(0, 0, 0, 0.2) inset;
