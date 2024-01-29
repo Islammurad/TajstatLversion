@@ -174,23 +174,9 @@ i.fa.fa-angle-down {
   margin: 0px auto;
 }
 
-/*@media screen and (max-width:991px) {
-  #lab_video_text_wrap {
-    height: 300px;
-  }
+.indicator__image svg:hover {
+	color: #fff;
 }
-
-@media screen and (max-width:650px) {
-  #lab_video_text_wrap {
-    height: 250px;
-  }
-  #lab_img_text_overlay h2 {
-    font-size: 2em;
-  }
-  #lab_img_text_overlay p {
-    font-size: .9em;
-  }
-}*/
 .swiper-wrapper img {
 	width: 100%;
 
