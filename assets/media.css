@@ -1,7 +1,4 @@
 @media screen and (max-width: 360px) {
-	body {
-    	padding: 12px 12px;
-	}
 	.header__info {
 		display: none;
 	}
@@ -127,9 +124,6 @@
 
 
 @media screen and (min-width: 360px) and (max-width: 467px) {
-	body {
-    	padding: 12px 12px;
-	}
 	.header__info {
 		display: none;
 	}
@@ -253,9 +247,6 @@
 
 
 @media screen and (min-width: 467px) and (max-width: 768px) {
-	body {
-    	padding: 12px 12px;
-	}
 	.container {
 		width: 100% !important;
 		padding: 0 !important;
@@ -308,9 +299,6 @@
 
 
 @media screen and (min-width: 768px) and (max-width: 967px) {
-	body {
-    	padding: 12px 12px;
-	}
 	.container {
 		width: 100% !important;
 		padding: 0 !important;
@@ -349,9 +337,6 @@
 
 
 @media screen and (min-width: 967px) and (max-width: 1268px) {
-	body {
-    	padding: 12px 12px;
-	}
 	.container {
 		width: 100% !important;
 		padding: 0 !important;
