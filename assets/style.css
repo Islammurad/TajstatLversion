@@ -244,13 +244,24 @@ i.fa.fa-angle-down {
 	color: #005921;
 }
 a.block__tractor:hover {
-	color: #fff;
 	background-color: blue;
+	border-radius: 5px;
 
 }
-a.block__tractor i:hover{
+a.block__tractor i, p:hover{
 	color: #fff;
 }
+
+
+a.block__industry:hover {
+	background-color: #FFB800;
+
+}
+
+a.block__industry i, p:hover{
+	color: #fff;
+}
+
 .block__indicator__items {
 	display: grid;
 	grid-template-columns: repeat(5,1fr);
