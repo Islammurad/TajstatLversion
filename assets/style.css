@@ -95,7 +95,7 @@ img.flag__en {
 	display: none !important;
 }
 
-a.block__list:hover svg {
+.blocks__indicator:hover svg {
 	filter: brightness(0) invert(1);
 }
 
