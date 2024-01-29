@@ -408,6 +408,10 @@ a.block__list i:hover{
 a.block__list p:hover{
 	color: #fff;
 }
+.blocks__indicator:hover {
+	color: #fff;
+}
+
 .block__indicator__items {
 	display: grid;
 	grid-template-columns: repeat(5,1fr);
