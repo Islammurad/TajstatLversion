@@ -429,6 +429,9 @@ i.fa.fa-angle-down {
 	border-radius: 5px;
 	text-align: center;
 	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .agency__title h2 {
 	font-weight: 700;
