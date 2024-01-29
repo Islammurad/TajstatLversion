@@ -247,6 +247,7 @@ i.fa.fa-angle-down {
 .block__tractor:hover{
 	background-color: #0F5EF7;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__tractor:hover p{
 	color: #fff;
@@ -259,6 +260,7 @@ i.fa.fa-angle-down {
 .block__industry:hover{
 	background-color: #FFD43B;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__industry:hover p{
 	color: #fff;
@@ -271,6 +273,7 @@ i.fa.fa-angle-down {
 .block__building:hover{
 	background-color: #7A15F7;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__building:hover p{
 	color: #fff;
@@ -282,6 +285,7 @@ i.fa.fa-angle-down {
 .block__shopping:hover{
 	background-color: #f01000;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__shopping:hover p{
 	color: #fff;
@@ -293,6 +297,7 @@ i.fa.fa-angle-down {
 .block__shuttle:hover{
 	background-color: #00BC8B;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__shuttle:hover p{
 	color: #fff;
@@ -304,6 +309,7 @@ i.fa.fa-angle-down {
 .block__tower:hover{
 	background-color: #475F7B;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__tower:hover p{
 	color: #fff;
@@ -315,6 +321,7 @@ i.fa.fa-angle-down {
 .block__gears:hover{
 	background-color: #FFD43B;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__gears:hover p{
 	color: #fff;
@@ -326,6 +333,7 @@ i.fa.fa-angle-down {
 .block__money:hover{
 	background-color: #7A15F7;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__money:hover p{
 	color: #fff;
@@ -337,6 +345,7 @@ i.fa.fa-angle-down {
 .block__graduation:hover{
 	background-color: #f01000;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__graduation:hover p{
 	color: #fff;
@@ -348,6 +357,7 @@ i.fa.fa-angle-down {
 .block__heart:hover{
 	background-color: #00BC8B;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__heart:hover p{
 	color: #fff;
@@ -359,6 +369,7 @@ i.fa.fa-angle-down {
 .block__group:hover{
 	background-color: #475F7B;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__group:hover p{
 	color: #fff;
@@ -370,6 +381,7 @@ i.fa.fa-angle-down {
 .block__card:hover{
 	background-color: #0F5EF7;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__card:hover p{
 	color: #fff;
@@ -381,6 +393,7 @@ i.fa.fa-angle-down {
 .block__buildings:hover{
 	background-color: #FFD43B;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__buildings:hover p{
 	color: #fff;
@@ -392,6 +405,7 @@ i.fa.fa-angle-down {
 .block__briefcase:hover{
 	background-color: #7A15F7;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__briefcase:hover p{
 	color: #fff;
@@ -403,6 +417,7 @@ i.fa.fa-angle-down {
 .block__list:hover{
 	background-color: #475F7B;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s;
 }
 .block__list:hover p{
 	color: #fff;
@@ -424,7 +439,7 @@ i.fa.fa-angle-down {
 	text-decoration: none;
 }
 .blocks__indicator {
-	padding: 30px 14px;
+	padding: 40px 14px;
 	border: 1px solid #ccc;
 	border-radius: 5px;
 	text-align: center;
