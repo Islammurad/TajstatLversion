@@ -123,11 +123,11 @@ i.fa.fa-angle-down {
 	color: #005921;
 }
 .swiper-button-next {
-	background-image: url(img/CaretRight.png) !important;
+	background-image: url(../img/CaretRight.png) !important;
 	background-size: 20px 30px !important;
 }
 .swiper-button-prev {
-	background-image: url(img/Caretleft.png) !important;
+	background-image: url(../img/Caretleft.png) !important;
 	background-size: 20px 30px !important;
 }
 
@@ -172,7 +172,6 @@ i.fa.fa-angle-down {
 #lab_img_text_overlay .container {
   text-align: center;
   margin: 0px auto;
-//  background-color: #669900;
 }
 
 /*@media screen and (max-width:991px) {
