@@ -400,6 +400,7 @@ a.block__briefcase p:hover{
 a.block__list:hover {
 	background-color: #475F7B;
 	border-radius: 5px;
+	color: #fff !important;
 }
 a.block__list i:hover{
 	color: #fff;
