@@ -410,8 +410,11 @@ a.block__list p:hover{
 }
 .blocks__indicator a:hover {
 	color: #fff;
+	background-color: #0F5EF7;
 }
-
+.blocks__indicator i:hover {
+	color: #fff;
+}
 .block__indicator__items {
 	display: grid;
 	grid-template-columns: repeat(5,1fr);
