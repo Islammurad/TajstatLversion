@@ -240,8 +240,16 @@ i.fa.fa-angle-down {
 .indicator__info p {
 	font-size: 20px;
 	font-weight: 700;
-	line-height: 28px;
+	margin-bottom: 0;
 	color: #005921;
+}
+a.block__tractor:hover {
+	color: #fff;
+	background-color: blue;
+
+}
+a.block__tractor i:hover{
+	color: #fff;
 }
 .block__indicator__items {
 	display: grid;
