@@ -139,6 +139,12 @@
 
 
 @media screen and (min-width: 360px) and (max-width: 467px) {
+	header {
+    	padding: 12px 12px;
+	}
+	section#lab_img_slider {
+    	padding: 12px 12px;
+	}
 	.header__info {
 		display: none;
 	}
@@ -266,6 +272,12 @@
 
 
 @media screen and (min-width: 467px) and (max-width: 768px) {
+	header {
+    	padding: 12px 12px;
+	}
+	section#lab_img_slider {
+    	padding: 12px 12px;
+	}
 	.container {
 		width: 100% !important;
 		padding: 0 !important;
@@ -330,6 +342,9 @@
 	.container {
 		width: 100% !important;
 		padding: 0 !important;
+	}
+	section#lab_img_slider {
+    	padding: 12px 12px;
 	}
 	.header__info {
 		display: none;
