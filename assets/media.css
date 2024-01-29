@@ -1,4 +1,10 @@
 @media screen and (max-width: 360px) {
+	header {
+    	padding: 12px 12px;
+	}
+	section#lab_img_slider {
+    	padding: 12px 12px;
+	}
 	.header__info {
 		display: none;
 	}
@@ -118,6 +124,15 @@
 	.footer__agency p {
 		line-height: 10px;
 	}
+	.header__info {
+		display: none;
+	}
+	.header__logo img {
+		width: 70%;
+	}
+	.info__agency {
+		padding: 12px 12px;
+	}
 }
 
 
@@ -192,6 +207,10 @@
 	}
 	.select__indicator {
 		padding-top: 20px;
+		padding: 12px 12px;
+	}
+	.info__agency {
+		padding: 12px 12px;
 	}
 	.select__indicator__title h2 {
 		font-size: 14px;
@@ -295,6 +314,15 @@
 	.footer__agency p {
 		line-height: 10px;
 	}
+	.header__info {
+		display: none;
+	}
+	.header__logo img {
+		width: 70%;
+	}
+	.info__agency {
+		padding: 12px 12px;
+	}
 }
 
 
@@ -332,6 +360,15 @@
 	}
 	.footer__agency p {
 		line-height: 10px;
+	}
+	.header__info {
+		display: none;
+	}
+	.header__logo img {
+		width: 70%;
+	}
+	.info__agency {
+		padding: 12px 12px;
 	}
 }
 
