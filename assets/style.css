@@ -246,22 +246,167 @@ i.fa.fa-angle-down {
 a.block__tractor:hover {
 	background-color: blue;
 	border-radius: 5px;
-
 }
-a.block__tractor i, p:hover{
+a.block__tractor i:hover{
 	color: #fff;
 }
-
+a.block__tractor p:hover{
+	color: #fff;
+}
 
 a.block__industry:hover {
 	background-color: #FFB800;
-
+	border-radius: 5px;
 }
-
-a.block__industry i, p:hover{
+a.block__industry i:hover{
+	color: #fff;
+}
+a.block__industry p:hover{
 	color: #fff;
 }
 
+a.block__building:hover {
+	background-color: #7A15F7;
+	border-radius: 5px;
+}
+a.block__building i:hover{
+	color: #fff;
+}
+a.block__building p:hover{
+	color: #fff;
+}
+
+a.block__shopping:hover {
+	background-color: #f01000;
+	border-radius: 5px;
+}
+a.block__shopping i:hover{
+	color: #fff;
+}
+a.block__shopping p:hover{
+	color: #fff;
+}
+
+a.block__shuttle:hover {
+	background-color: #00BC8B;
+	border-radius: 5px;
+}
+a.block__shuttle i:hover{
+	color: #fff;
+}
+a.block__shuttle p:hover{
+	color: #fff;
+}
+
+a.block__tower:hover {
+	background-color: #475F7B;
+	border-radius: 5px;
+}
+a.block__tower i:hover{
+	color: #fff;
+}
+a.block__tower p:hover{
+	color: #fff;
+}
+
+a.block__gears:hover {
+	background-color: #FFD43B;
+	border-radius: 5px;
+}
+a.block__gears i:hover{
+	color: #fff;
+}
+a.block__gears p:hover{
+	color: #fff;
+}
+
+a.block__money:hover {
+	background-color: #7A15F7;
+	border-radius: 5px;
+}
+a.block__money i:hover{
+	color: #fff;
+}
+a.block__money p:hover{
+	color: #fff;
+}
+
+a.block__graduation:hover {
+	background-color: #f01000;
+	border-radius: 5px;
+}
+a.block__graduation i:hover{
+	color: #fff;
+}
+a.block__graduation p:hover{
+	color: #fff;
+}
+
+a.block__heart:hover {
+	background-color: #00BC8B;
+	border-radius: 5px;
+}
+a.block__heart i:hover{
+	color: #fff;
+}
+a.block__heart p:hover{
+	color: #fff;
+}
+
+a.block__group:hover {
+	background-color: #475F7B;
+	border-radius: 5px;
+}
+a.block__group i:hover{
+	color: #fff;
+}
+a.block__group p:hover{
+	color: #fff;
+}
+
+a.block__card:hover {
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+a.block__card i:hover{
+	color: #fff;
+}
+a.block__card p:hover{
+	color: #fff;
+}
+
+a.block__buildings:hover {
+	background-color: #FFD43B;
+	border-radius: 5px;
+}
+a.block__buildings i:hover{
+	color: #fff;
+}
+a.block__buildings p:hover{
+	color: #fff;
+}
+
+a.block__briefcase:hover {
+	background-color: #7A15F7;
+	border-radius: 5px;
+}
+a.block__briefcase i:hover{
+	color: #fff;
+}
+a.block__briefcase p:hover{
+	color: #fff;
+}
+
+a.block__list:hover {
+	background-color: #475F7B;
+	border-radius: 5px;
+}
+a.block__list i:hover{
+	color: #fff;
+}
+a.block__list p:hover{
+	color: #fff;
+}
 .block__indicator__items {
 	display: grid;
 	grid-template-columns: repeat(5,1fr);
