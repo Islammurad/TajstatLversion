@@ -408,7 +408,7 @@ a.block__list i:hover{
 a.block__list p:hover{
 	color: #fff;
 }
-.blocks__indicator:hover {
+.blocks__indicator a:hover {
 	color: #fff;
 }
 
