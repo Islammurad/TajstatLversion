@@ -246,19 +246,171 @@ i.fa.fa-angle-down {
 
 .block__tractor:hover{
 	background-color: #0F5EF7;
-	color: #fff !important;
+	border-radius: 5px;
 }
 .block__tractor:hover p{
-	color: #fff !important;
+	color: #fff;
 }
 .block__tractor:hover i{
-	color: #fff !important;
+	color: #fff ;
 }
 
-.blocks__indicator:hover {
-	color: #fff;
+
+.block__industry:hover{
 	background-color: #0F5EF7;
+	border-radius: 5px;
 }
+.block__industry:hover p{
+	color: #fff;
+}
+.block__industry:hover i{
+	color: #fff ;
+}
+
+
+.block__building:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__building:hover p{
+	color: #fff;
+}
+.block__building:hover i{
+	color: #fff ;
+}
+
+.block__shopping:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__shopping:hover p{
+	color: #fff;
+}
+.block__shopping:hover i{
+	color: #fff ;
+}
+
+.block__shuttle:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__shuttle:hover p{
+	color: #fff;
+}
+.block__shuttle:hover i{
+	color: #fff ;
+}
+
+.block__tower:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__tower:hover p{
+	color: #fff;
+}
+.block__tower:hover i{
+	color: #fff ;
+}
+
+.block__gears:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__gears:hover p{
+	color: #fff;
+}
+.block__gears:hover i{
+	color: #fff ;
+}
+
+.block__money:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__money:hover p{
+	color: #fff;
+}
+.block__money:hover i{
+	color: #fff ;
+}
+
+.block__graduation:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__graduation:hover p{
+	color: #fff;
+}
+.block__graduation:hover i{
+	color: #fff ;
+}
+
+.block__heart:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__heart:hover p{
+	color: #fff;
+}
+.block__heart:hover i{
+	color: #fff ;
+}
+
+.block__group:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__group:hover p{
+	color: #fff;
+}
+.block__group:hover i{
+	color: #fff ;
+}
+
+.block__card:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__card:hover p{
+	color: #fff;
+}
+.block__card:hover i{
+	color: #fff ;
+}
+
+.block__buildings:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__buildings:hover p{
+	color: #fff;
+}
+.block__buildings:hover i{
+	color: #fff ;
+}
+
+.block__briefcase:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__briefcase:hover p{
+	color: #fff;
+}
+.block__briefcase:hover i{
+	color: #fff ;
+}
+
+.block__list:hover{
+	background-color: #0F5EF7;
+	border-radius: 5px;
+}
+.block__list:hover p{
+	color: #fff;
+}
+.block__list:hover i{
+	color: #fff ;
+}
+
 .blocks__indicator i:hover {
 	color: #fff;
 }
